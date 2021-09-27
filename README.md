@@ -1,0 +1,2 @@
+# SAMPLE_STATA_PROGRAMS
+Sample STATA programs
